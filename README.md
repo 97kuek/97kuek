@@ -4,14 +4,6 @@
   <img src="./github-header-banner.png" alt="Keitaro Ueki — aviation banner" width="100%" />
 </p>
 
-<h1 align="center">Keitaro Ueki</h1>
-<p align="center">
-  <strong>Undergraduate · Waseda University · Information & Communication Engineering</strong>
-</p>
-<p align="center">
-  <em>Human-Powered Aircraft · Flight Dynamics · MATLAB / Python</em>
-</p>
-
 ---
 
 ## ✈️ About
