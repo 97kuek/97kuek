@@ -1,8 +1,7 @@
 <!-- GitHub Profile README for 97kuek (Keitaro Ueki) -->
 
 <p align="center">
-  <!-- Replace with your PNG banner -->
-  <img src="./assets/github-header-banner.png" alt="Keitaro Ueki — aviation banner" width="100%" />
+  <img src="./github-header-banner.png" alt="Keitaro Ueki — aviation banner" width="100%" />
 </p>
 
 <h1 align="center">Keitaro Ueki</h1>
