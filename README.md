@@ -1,8 +1,8 @@
 <!-- GitHub Profile README for 97kuek (Keitaro Ueki) -->
 
 <p align="center">
-  <!-- Elegant sky banner -->
-  <img src="./assets/banner_sky.svg" alt="Keitaro Ueki — aviation banner" width="100%" />
+  <!-- Replace with your PNG banner -->
+  <img src="./assets/github-header-banner.png" alt="Keitaro Ueki — aviation banner" width="100%" />
 </p>
 
 <h1 align="center">Keitaro Ueki</h1>
@@ -58,3 +58,4 @@
 - Instagram: <a href="https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr">@97kuek_</a>
 
 <p align="center"><sub>Exploring engineering through code and design.</sub></p>
+
