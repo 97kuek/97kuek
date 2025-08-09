@@ -1,59 +1,57 @@
-<!-- GitHub Profile README for Keitaro Ueki -->
+<!-- GitHub Profile README for 97kuek (Keitaro Ueki) -->
 
-<h1 align="center">🚀 Keitaro Ueki</h1>
-<h3 align="center">Aspiring Engineer | Human-Powered Aircraft Designer | B.S. in Information & Communication Engineering @ Waseda University</h3>
-
----
-
-## 👨‍💻 About Me
-- 🎓 2nd-year undergraduate student at **Waseda University**, Tokyo, Japan  
-- ✈️ Specializing in **aerodynamics**, **flight dynamics**, and **human-powered aircraft (HPA) design**  
-- 💡 Passionate about simulation, optimization, and turning engineering concepts into reality  
-- 🌏 Striving to bridge **aerospace engineering** and **software development**
-
----
-
-## 🛠 Tech Stack
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-
-**Tools & Frameworks:**  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-FF8000?style=for-the-badge&logo=mathworks)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-**Specialties:**  
-- Flight dynamics simulation  
-- Aerodynamic optimization (Larrabee method, vortex lattice method)  
-- HPA structural & propeller design  
-- Data visualization and engineering automation  
-
----
-
-## 📊 GitHub Stats
+<!-- Animated, subtle gradient banner (centered). 
+Place banner_animated.gif in ./assets/  -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeitaroUeki&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeitaroUeki&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
+  <img src="./assets/banner_animated.gif" alt="Keitaro Ueki — banner" width="100%" />
+</p>
+
+<h1 align="center">Keitaro Ueki</h1>
+<h3 align="center">Undergraduate | Waseda University</h3>
+
+---
+
+## 🧭 About Me
+- 🎓 2nd-year undergraduate student in the **School of Fundamental Science and Engineering, Department of Information and Communication Engineering**, Waseda University  
+- 🛩 Member of a **human-powered aircraft project team**  
+- 💻 Recently exploring **MATLAB** and **Python** for engineering applications  
+- 🎧 Interested in **audio signal processing** and its practical applications  
+
+---
+
+## 🔧 Skills & Tools
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-EF7D00?style=flat&logo=mathworks&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+
+**Tools**  
+![Simulink](https://img.shields.io/badge/Simulink-FF8000?style=flat&logo=mathworks&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+- **HPA Flight Path Optimization** — MATLAB tool for flight distance estimation and optimization under varying wind conditions  
+- **Larrabee Propeller Design Tool** — Calculates chord/twist distribution and predicts efficiency for low-speed propellers  
+- **Unity Flight Physics Demo** — Simple physics model for small-scale flight simulation  
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=97kuek&show_icons=true&theme=graywhite&hide_border=true" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97kuek&layout=compact&theme=graywhite&hide_border=true" alt="top langs" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 🛩 **HPA Flight Path Optimization** – MATLAB-based optimization tool for maximizing human-powered aircraft flight distance under varying wind conditions  
-- ⚙️ **Propeller Design Tool (Larrabee Method)** – Aerodynamic optimization for low-speed, high-efficiency propellers  
-- 🎮 **Unity Flight Simulator Physics Engine** – Educational project for beginner pilots and engineers  
+## 🌐 Contact
+- Email: keitaro.ueki@asagi.waseda.jp  
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:your.email@example.com)
-
----
-
-<p align="center"><i>"Engineering the future, one project at a time."</i></p>
+<p align="center"><i>Exploring engineering through code and design.</i></p>
