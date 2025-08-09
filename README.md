@@ -7,7 +7,7 @@
 ---
 
 ## ✈️ About
-- 2nd-year student (School of Fundamental Science and Engineering, Dept. of ICE)  
+- B2 | Waseda FSE Comm. | WASA42nd | 翼 
 - Member of a <strong>human-powered aircraft</strong> project team  
 - Building tools in <strong>MATLAB / Python</strong> for aerodynamics, optimization, and simulation  
 - Interests: <strong>signal processing</strong> (audio), flight dynamics, UI for engineering tools
