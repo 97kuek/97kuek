@@ -3,7 +3,7 @@
 <!-- Animated, subtle gradient banner (centered). 
 Place banner_animated.gif in ./assets/  -->
 <p align="center">
-  <img src="./assets/banner_animated.gif" alt="Keitaro Ueki — banner" width="100%" />
+  <img src="./assets/banner_animated.png" alt="Keitaro Ueki — banner" width="100%" />
 </p>
 
 <h1 align="center">Keitaro Ueki</h1>
