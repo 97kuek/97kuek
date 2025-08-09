@@ -11,7 +11,7 @@ Place banner_animated.gif in ./assets/  -->
 
 ---
 
-## 🧭 About Me
+## About Me
 - 🎓 2nd-year undergraduate student in the **School of Fundamental Science and Engineering, Department of Information and Communication Engineering**, Waseda University  
 - 🛩 Member of a **human-powered aircraft project team**  
 - 💻 Recently exploring **MATLAB** and **Python** for engineering applications  
@@ -19,7 +19,7 @@ Place banner_animated.gif in ./assets/  -->
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-EF7D00?style=flat&logo=mathworks&logoColor=white)
@@ -34,14 +34,14 @@ Place banner_animated.gif in ./assets/  -->
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 - **HPA Flight Path Optimization** — MATLAB tool for flight distance estimation and optimization under varying wind conditions  
 - **Larrabee Propeller Design Tool** — Calculates chord/twist distribution and predicts efficiency for low-speed propellers  
 - **Unity Flight Physics Demo** — Simple physics model for small-scale flight simulation  
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=97kuek&show_icons=true&theme=graywhite&hide_border=true" alt="stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97kuek&layout=compact&theme=graywhite&hide_border=true" alt="top langs" />
@@ -49,8 +49,10 @@ Place banner_animated.gif in ./assets/  -->
 
 ---
 
-## 🌐 Contact
-- Email: keitaro.ueki@asagi.waseda.jp  
+## Contact
+- Email: keitaro.ueki@asagi.waseda.jp
+- Instagram: [https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr]
+
 
 ---
 
