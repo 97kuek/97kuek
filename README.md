@@ -13,6 +13,14 @@
 
 ---
 
+## Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=97kuek&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97kuek&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-EF7D00?style=flat&logo=mathworks&logoColor=white)
