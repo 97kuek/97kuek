@@ -39,7 +39,7 @@
 
 ---
 ## Contact
-Email: keitaro.ueki@asagi.waseda.jp  
-Instagram: [97kuek_](https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr)  
-X: [97kuek_](https://x.com/97kuek_?s=21)  
-Zenn: [97kuek](https://zenn.dev/97kuek)
+[![Email](https://img.shields.io/badge/Email-keitaro.ueki%40asagi.waseda.jp-red?style=flat&logo=gmail&logoColor=white)](mailto:keitaro.ueki@asagi.waseda.jp)
+[![Instagram](https://img.shields.io/badge/Instagram-97kuek__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr)
+[![X](https://img.shields.io/badge/X-97kuek__-000000?style=flat&logo=x&logoColor=white)](https://x.com/97kuek_?s=21)
+[![Zenn](https://img.shields.io/badge/Zenn-97kuek-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/97kuek)
