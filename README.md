@@ -8,7 +8,6 @@
 
 ## About
 - B2 | Waseda FSE | WASA 42nd (Wing Team)  
-- Human-powered aircraft design and simulation  
 - MATLAB / Python for aerodynamics, optimization, and engineering tools  
 
 ---
