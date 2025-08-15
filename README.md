@@ -30,6 +30,14 @@
 
 ---
 
+## Projects
+![B2_Class_Projects](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MochiMaker](https://img.shields.io/badge/MATLAB-EF7D00?style=flat&logo=mathworks&logoColor=white)
+![GA-Rasteigin](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Visual-Programming-Practice](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![WASA2026](https://img.shields.io/badge/Simulink-FF8000?style=flat&logo=mathworks&logoColor=white)
+
+---
 ## Contact
 Email: keitaro.ueki@asagi.waseda.jp  
 Instagram: [97kuek_](https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr)  
