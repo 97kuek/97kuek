@@ -36,5 +36,3 @@ Email: keitaro.ueki@asagi.waseda.jp
 Instagram: [97kuek_](https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr)  
 X: [97kuek_](https://x.com/97kuek_?s=21)  
 Zenn: [97kuek](https://zenn.dev/97kuek)
-
-<p align="center"><sub>Code × Design × Flight</sub></p>
