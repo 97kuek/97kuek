@@ -31,11 +31,11 @@
 ---
 
 ## Projects
-![B2_Class_Projects](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MochiMaker](https://img.shields.io/badge/MATLAB-EF7D00?style=flat&logo=mathworks&logoColor=white)
-![GA-Rasteigin](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Visual-Programming-Practice](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![WASA2026](https://img.shields.io/badge/Simulink-FF8000?style=flat&logo=mathworks&logoColor=white)
+![B2_Class_Projects](https://github.com/97kuek/B2_Class_Projects?fbclid=PAQ0xDSwMMGBpleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
+![MochiMaker](https://github.com/97kuek/MochiMaker?fbclid=PAQ0xDSwMMF-lleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
+![GA-Rasteigin](https://github.com/97kuek/GA-Rastrigin?fbclid=PAQ0xDSwMMF71leHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
+![Visual-Programming-Practice](https://github.com/97kuek/Visual-Programming-Practice?fbclid=PAQ0xDSwMMGDlleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
+![WASA2026](https://github.com/97kuek/WASA2026?fbclid=PAQ0xDSwMMGFVleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
 
 ---
 ## Contact
