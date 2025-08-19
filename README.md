@@ -23,15 +23,6 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 ---
-
-## Projects
-- [B2_Class_Projects](https://github.com/97kuek/B2_Class_Projects?fbclid=PAQ0xDSwMMGBpleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
-- [MochiMaker](https://github.com/97kuek/MochiMaker?fbclid=PAQ0xDSwMMF-lleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
-- [GA-Rasteigin](https://github.com/97kuek/GA-Rastrigin?fbclid=PAQ0xDSwMMF71leHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
-- [Visual-Programming-Practice](https://github.com/97kuek/Visual-Programming-Practice?fbclid=PAQ0xDSwMMGDlleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
-- [WASA2026](https://github.com/97kuek/WASA2026?fbclid=PAQ0xDSwMMGFVleHRuA2FlbQIxMQABp2f4XRcGWEZCRHTkot6UPVoi36OqRlcvrlexwV9jdpJ0mijG4gbarbJGnLgL_aem_sFsBeuAMya-65S6q5q4mCg)
-
----
 ## Contact
 [![Email](https://img.shields.io/badge/Email-keitaro.ueki%40asagi.waseda.jp-red?style=flat&logo=gmail&logoColor=white)](mailto:keitaro.ueki@asagi.waseda.jp)
 [![Instagram](https://img.shields.io/badge/Instagram-97kuek__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr)
