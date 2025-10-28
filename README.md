@@ -1,30 +1,73 @@
 <!-- GitHub Profile README for 97kuek (Keitaro Ueki) -->
 
+<!-- ヘッダー -->
 <p align="center">
-  <img src="./github-header-banner.png" alt="Keitaro Ueki — Aviation & Engineering" width="100%" />
+  <img src="./github-header-banner.png" alt="Keitaro Ueki" width="100%" />
 </p>
 
----
-
-## About
-- B2 | Waseda FSE | WASA 42nd (Wing Team)  
-- MATLAB / Python for aerodynamics, optimization, and engineering tools  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97kuek&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
-</p>
+<!-- 名前 -->
+<h1 align="center">Keitaro Ueki</h1>
+<p align="center">Signal & Image Processing | Engineering Tools | Programming</p>
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-EF7D00?style=flat&logo=mathworks&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Simulink](https://img.shields.io/badge/Simulink-FF8000?style=flat&logo=mathworks&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+<!-- About -->
+<div align="center">
+
+### About Me
+📚 B2 | Waseda University, FSE  
+🎵 Interests: **Acoustic Signal Processing**, **Image Processing**  
+🛠 Previously built **design support programs** for human-powered aircraft  
+💻 Main Languages: **Python / MATLAB / C / Java**
+
+</div>
 
 ---
-## Contact
-[![Email](https://img.shields.io/badge/Email-keitaro.ueki%40asagi.waseda.jp-red?style=flat&logo=gmail&logoColor=white)](mailto:keitaro.ueki@asagi.waseda.jp)
-[![Instagram](https://img.shields.io/badge/Instagram-97kuek__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/97kuek_?igsh=MWdseXprbmU4bHMxbw%3D%3D&utm_source=qr)
-[![X](https://img.shields.io/badge/X-97kuek__-000000?style=flat&logo=x&logoColor=white)](https://x.com/97kuek_?s=21)
-[![Zenn](https://img.shields.io/badge/Zenn-97kuek-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/97kuek)
+
+<!-- Tech Stack -->
+<div align="center">
+
+### Tech Stack
+
+<img src="https://img.shields.io/badge/Python-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-388E3C?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/C-1B5E20?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-4CAF50?style=for-the-badge&logo=java&logoColor=white" />
+
+</div>
+
+---
+
+<!-- Stats セクション -->
+<div align="center">
+
+### Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=97kuek&show_icons=true&bg_color=ffffff&title_color=2E7D32&text_color=1B5E20&icon_color=2E7D32&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97kuek&layout=compact&bg_color=ffffff&title_color=2E7D32&text_color=1B5E20&hide_border=true" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=97kuek&theme=default&hide_border=true&background=FFFFFF&ring=2E7D32&fire=4CAF50&currStreakLabel=2E7D32&sideLabels=388E3C&dates=555555" />
+
+</div>
+
+---
+
+<!-- Contact -->
+<div align="center">
+
+### Contact
+
+<a href="mailto:keitaro.ueki@asagi.waseda.jp">
+  <img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/97kuek_">
+  <img src="https://img.shields.io/badge/Instagram-388E3C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://x.com/97kuek_">
+  <img src="https://img.shields.io/badge/X-1B5E20?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://zenn.dev/97kuek">
+  <img src="https://img.shields.io/badge/Zenn-4CAF50?style=for-the-badge&logo=zenn&logoColor=white" />
+</a>
+
+</div>
