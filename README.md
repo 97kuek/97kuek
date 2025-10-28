@@ -1,10 +1,5 @@
 <!-- GitHub Profile README for 97kuek (Keitaro Ueki) -->
 
-<!-- ヘッダー -->
-<p align="center">
-  <img src="./github-header-banner.png" alt="Keitaro Ueki" width="100%" />
-</p>
-
 <!-- 名前 -->
 <h1 align="center">Keitaro Ueki</h1>
 <p align="center">Signal & Image Processing | Engineering Tools | Programming</p>
