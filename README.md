@@ -49,6 +49,19 @@
 
 <br/>
 
+<div align="center"><h2>Latest Articles</h2></div>
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+<div align="center"><sub>Auto-updated from <a href="https://97kuek.github.io/">97kuek.github.io</a></sub></div>
+
+<br/>
+
 <div align="center"><h2>3D Contribution Graph</h2></div>
 
 <div align="center">

@@ -1,0 +1,31 @@
+name: Sync Latest Articles
+on:
+  # 毎日 0:15 (UTC) に自動実行
+  schedule:
+    - cron: "15 0 * * *"
+  # 手動実行も可能にする
+  workflow_dispatch:
+  # main ブランチへの push でも実行
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest articles from portfolio RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://97kuek.github.io/rss.xml"
+          max_post_count: 5
+          template: "[$title]($url) &nbsp;&middot;&nbsp; $date<br/>"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: update latest articles from portfolio"
+          committer_username: "Keitaro Ueki"
+          committer_email: "ueki.keitaro@gmail.com"
+          user_name: "Keitaro Ueki"
+          user_email: "ueki.keitaro@gmail.com"
