@@ -53,8 +53,7 @@
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[GitHub Issues × Claude AI でスライドを自動生成する仕組みを作る](https://97kuek.github.io/blog/slide-generator/) &nbsp;&middot;&nbsp; 2026-05-31<br/>[Transformerのお気持ちを解説してみた](https://97kuek.github.io/blog/transformer/) &nbsp;&middot;&nbsp; 2026-04-24<br/>[動体検知の基本理論と実装](https://97kuek.github.io/blog/motion-detection-app/) &nbsp;&middot;&nbsp; 2025-12-09<br/>[GitHub ActionsでGitHub Pagesに自動デプロイする](https://97kuek.github.io/blog/github-actions/) &nbsp;&middot;&nbsp; 2025-11-02<br/>[自己紹介](https://97kuek.github.io/blog/welcome-post/) &nbsp;&middot;&nbsp; 2025-10-30<br/><!-- BLOG-POST-LIST:END -->
 
 </div>
 
