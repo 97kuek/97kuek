@@ -53,7 +53,12 @@
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->[GitHub Issues × Claude AI でスライドを自動生成する仕組みを作る](https://97kuek.github.io/blog/slide-generator/) &nbsp;&middot;&nbsp; 2026-05-31<br/>[Transformerのお気持ちを解説してみた](https://97kuek.github.io/blog/transformer/) &nbsp;&middot;&nbsp; 2026-04-24<br/>[動体検知の基本理論と実装](https://97kuek.github.io/blog/motion-detection-app/) &nbsp;&middot;&nbsp; 2025-12-09<br/>[GitHub ActionsでGitHub Pagesに自動デプロイする](https://97kuek.github.io/blog/github-actions/) &nbsp;&middot;&nbsp; 2025-11-02<br/>[自己紹介](https://97kuek.github.io/blog/welcome-post/) &nbsp;&middot;&nbsp; 2025-10-30<br/><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<table>
+<tr><td align="center" width="33%" valign="top"><a href="https://97kuek.github.io/blog/slide-generator/"><img src="https://97kuek.github.io/og/blog/slide-generator.png" width="300" alt="GitHub Issues × Claude AI でスライドを自動生成する仕組みを作る" /></a><br/><a href="https://97kuek.github.io/blog/slide-generator/"><b>GitHub Issues × Claude AI でスライドを自動生成する仕組みを作る</b></a><br/><sub>2026-05-31</sub></td><td align="center" width="33%" valign="top"><a href="https://97kuek.github.io/blog/transformer/"><img src="https://97kuek.github.io/og/blog/transformer.png" width="300" alt="Transformerのお気持ちを解説してみた" /></a><br/><a href="https://97kuek.github.io/blog/transformer/"><b>Transformerのお気持ちを解説してみた</b></a><br/><sub>2026-04-24</sub></td><td align="center" width="33%" valign="top"><a href="https://97kuek.github.io/blog/motion-detection-app/"><img src="https://97kuek.github.io/og/blog/motion-detection-app.png" width="300" alt="動体検知の基本理論と実装" /></a><br/><a href="https://97kuek.github.io/blog/motion-detection-app/"><b>動体検知の基本理論と実装</b></a><br/><sub>2025-12-09</sub></td></tr>
+<tr><td align="center" width="33%" valign="top"><a href="https://97kuek.github.io/blog/github-actions/"><img src="https://97kuek.github.io/og/blog/github-actions.png" width="300" alt="GitHub ActionsでGitHub Pagesに自動デプロイする" /></a><br/><a href="https://97kuek.github.io/blog/github-actions/"><b>GitHub ActionsでGitHub Pagesに自動デプロイする</b></a><br/><sub>2025-11-02</sub></td><td align="center" width="33%" valign="top"><a href="https://97kuek.github.io/blog/welcome-post/"><img src="https://97kuek.github.io/og/blog/welcome-post.png" width="300" alt="自己紹介" /></a><br/><a href="https://97kuek.github.io/blog/welcome-post/"><b>自己紹介</b></a><br/><sub>2025-10-30</sub></td></tr>
+</table>
+<!-- BLOG-POST-LIST:END -->
 
 </div>
 

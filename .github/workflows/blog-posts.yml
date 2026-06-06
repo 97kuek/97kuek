@@ -17,15 +17,15 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Pull latest articles from portfolio RSS
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/setup-python@v5
         with:
-          feed_list: "https://97kuek.github.io/rss.xml"
-          max_post_count: 5
-          template: "[$title]($url) &nbsp;&middot;&nbsp; $date<br/>"
-          date_format: "yyyy-mm-dd"
-          commit_message: "chore: update latest articles from portfolio"
-          committer_username: "Keitaro Ueki"
-          committer_email: "ueki.keitaro@gmail.com"
-          user_name: "Keitaro Ueki"
-          user_email: "ueki.keitaro@gmail.com"
+          python-version: "3.x"
+      - name: Build article thumbnail cards from portfolio RSS
+        run: python .github/scripts/update_articles.py
+      - name: Commit & Push
+        run: |
+          git config user.name "Keitaro Ueki"
+          git config user.email "ueki.keitaro@gmail.com"
+          git add README.md
+          git diff --quiet --cached || git commit -m "chore: update latest articles from portfolio"
+          git push
