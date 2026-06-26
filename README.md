@@ -2,10 +2,6 @@
 
 # Keitaro Ueki
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2DA44E&center=true&vCenter=true&width=480&lines=Arduino+%C2%B7+C%2FC%2B%2B+%C2%B7+Python+%C2%B7+MATLAB;AI+Engineer" alt="typing" />
-
-<br/>
-
 <a href="https://97kuek.github.io/"><img src="https://img.shields.io/badge/Portfolio-2DA44E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.comm.waseda.ac.jp/"><img src="https://img.shields.io/badge/Waseda%20University-2DA44E?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Waseda University" /></a>
 <a href="https://neoai.jp/"><img src="https://img.shields.io/badge/neoAI-2DA44E?style=for-the-badge&logo=openai&logoColor=white" alt="neoAI" /></a>
@@ -70,12 +66,4 @@
 
 <div align="center">
   <img width="820" alt="3D contribution graph" src="profile-3d-contrib/profile-season-animate.svg" />
-</div>
-
-<br/>
-
-<div align="center"><h2>Contribution Activity</h2></div>
-
-<div align="center">
-  <img width="820" alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=97kuek&bg_color=ffffff&color=2F4858&line=2DA44E&point=57A65A&area=true&area_color=2DA44E&hide_border=true" />
 </div>
