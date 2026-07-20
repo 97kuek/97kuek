@@ -1,9 +1,11 @@
 # Keitaro Ueki
 
-- [早稲田大学基幹理工学部情報通信学科](https://www.comm.waseda.ac.jp/)・学部3年生
-- [neoAI](https://neoai.jp/)
+## About
+
+- [早稲田大学基幹理工学部情報通信学科](https://www.comm.waseda.ac.jp/)・B3
+- [neoAI](https://neoai.jp/)・AIエンジニア
 - [早稲田大学宇宙航空研究会WASA 鳥人間プロジェクト](https://wasa-birdman.com/)
-- [Portfolio](https://97kuek.github.io/)
+- [ポートフォリオサイト](https://97kuek.github.io/)
 
 <br/>
 
@@ -26,3 +28,7 @@
 <div align="center">
   <img width="820" alt="3D contribution graph" src="profile-3d-contrib/profile-season-animate.svg" />
 </div>
+
+## Contact
+
+- [E-mail](keitaro.ueki@asagi.waseda.jp)
