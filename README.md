@@ -1,5 +1,3 @@
-<div align="center">
-
 # Keitaro Ueki
 
 - [早稲田大学基幹理工学部情報通信学科](https://www.comm.waseda.ac.jp/)・学部3年生
