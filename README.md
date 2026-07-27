@@ -3,7 +3,6 @@
 ## About
 
 - [早稲田大学基幹理工学部情報通信学科](https://www.comm.waseda.ac.jp/)・B3
-- [neoAI](https://neoai.jp/)・AIエンジニア
 - [早稲田大学宇宙航空研究会WASA 鳥人間プロジェクト](https://wasa-birdman.com/)
 - [ポートフォリオサイト](https://97kuek.github.io/)
 
@@ -31,4 +30,4 @@
 
 ## Contact
 
-- [E-mail](keitaro.ueki@asagi.waseda.jp)
+- [keitaro.ueki@asagi.waseda.jp](mailto:keitaro.ueki@asagi.waseda.jp)
